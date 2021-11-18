@@ -139,5 +139,9 @@ namespace identity.Controllers
             if (user == null) return Json(true);
             return Json("نام کاربری وارد شده از قبل ثبت نام شده است");
         }
+
+        public async Task<IActionResult> VerfyEmail(){
+            return View();
+        }
     }
 }
