@@ -14,5 +14,8 @@ namespace identity.Models.ViewModels.Account
         [DataType(DataType.Password)]
         public string Password { get; set; }
         public bool RemmberMe { get; set; }
+
+        public string RetrunUrl { get; set; }
+
     }
 }
