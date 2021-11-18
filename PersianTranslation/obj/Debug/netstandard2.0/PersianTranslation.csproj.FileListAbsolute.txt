@@ -1,0 +1,46 @@
+C:\Users\Arman PC gg\source\repos\Test1\bin\Debug\netstandard2.0\PersianTranslation.deps.json
+C:\Users\Arman PC gg\source\repos\Test1\bin\Debug\netstandard2.0\PersianTranslation.dll
+C:\Users\Arman PC gg\source\repos\Test1\bin\Debug\netstandard2.0\PersianTranslation.pdb
+C:\Users\Arman PC gg\source\repos\Test1\obj\Debug\netstandard2.0\PersianTranslation.csprojAssemblyReference.cache
+C:\Users\Arman PC gg\source\repos\Test1\obj\Debug\netstandard2.0\PersianTranslation.AssemblyInfoInputs.cache
+C:\Users\Arman PC gg\source\repos\Test1\obj\Debug\netstandard2.0\PersianTranslation.AssemblyInfo.cs
+C:\Users\Arman PC gg\source\repos\Test1\obj\Debug\netstandard2.0\PersianTranslation.dll
+C:\Users\Arman PC gg\source\repos\Test1\obj\Debug\netstandard2.0\PersianTranslation.pdb
+C:\Users\Arman PC gg\source\repos\PersianTranslation\bin\Debug\netstandard2.0\PersianTranslation.deps.json
+C:\Users\Arman PC gg\source\repos\PersianTranslation\bin\Debug\netstandard2.0\PersianTranslation.dll
+C:\Users\Arman PC gg\source\repos\PersianTranslation\bin\Debug\netstandard2.0\PersianTranslation.pdb
+C:\Users\Arman PC gg\source\repos\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.AssemblyInfoInputs.cache
+C:\Users\Arman PC gg\source\repos\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.AssemblyInfo.cs
+C:\Users\Arman PC gg\source\repos\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.dll
+C:\Users\Arman PC gg\source\repos\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.pdb
+C:\Users\Arman PC gg\source\repos\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.csproj.CoreCompileInputs.cache
+C:\Users\Arman PC gg\source\repos\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.csprojAssemblyReference.cache
+C:\Users\Arman PC gg\Desktop\IdentitySample\PersianTranslation\bin\Debug\netstandard2.0\PersianTranslation.deps.json
+C:\Users\Arman PC gg\Desktop\IdentitySample\PersianTranslation\bin\Debug\netstandard2.0\PersianTranslation.dll
+C:\Users\Arman PC gg\Desktop\IdentitySample\PersianTranslation\bin\Debug\netstandard2.0\PersianTranslation.pdb
+C:\Users\Arman PC gg\Desktop\IdentitySample\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.csprojAssemblyReference.cache
+C:\Users\Arman PC gg\Desktop\IdentitySample\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.AssemblyInfoInputs.cache
+C:\Users\Arman PC gg\Desktop\IdentitySample\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.AssemblyInfo.cs
+C:\Users\Arman PC gg\Desktop\IdentitySample\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.dll
+C:\Users\Arman PC gg\Desktop\IdentitySample\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.pdb
+C:\Users\Arman PC gg\Desktop\IdentitySample\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.csproj.CoreCompileInputs.cache
+F:\asp.netcore\Identity\06_Identity3\Files\IdentitySample\PersianTranslation\bin\Debug\netstandard2.0\PersianTranslation.deps.json
+F:\asp.netcore\Identity\06_Identity3\Files\IdentitySample\PersianTranslation\bin\Debug\netstandard2.0\PersianTranslation.dll
+F:\asp.netcore\Identity\06_Identity3\Files\IdentitySample\PersianTranslation\bin\Debug\netstandard2.0\PersianTranslation.pdb
+F:\asp.netcore\Identity\06_Identity3\Files\IdentitySample\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.csproj.AssemblyReference.cache
+F:\asp.netcore\Identity\06_Identity3\Files\IdentitySample\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.GeneratedMSBuildEditorConfig.editorconfig
+F:\asp.netcore\Identity\06_Identity3\Files\IdentitySample\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.AssemblyInfoInputs.cache
+F:\asp.netcore\Identity\06_Identity3\Files\IdentitySample\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.AssemblyInfo.cs
+F:\asp.netcore\Identity\06_Identity3\Files\IdentitySample\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.csproj.CoreCompileInputs.cache
+F:\asp.netcore\Identity\06_Identity3\Files\IdentitySample\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.dll
+F:\asp.netcore\Identity\06_Identity3\Files\IdentitySample\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.pdb
+C:\Users\kabir\Desktop\identity\PersianTranslation\bin\Debug\netstandard2.0\PersianTranslation.deps.json
+C:\Users\kabir\Desktop\identity\PersianTranslation\bin\Debug\netstandard2.0\PersianTranslation.dll
+C:\Users\kabir\Desktop\identity\PersianTranslation\bin\Debug\netstandard2.0\PersianTranslation.pdb
+C:\Users\kabir\Desktop\identity\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.csproj.AssemblyReference.cache
+C:\Users\kabir\Desktop\identity\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kabir\Desktop\identity\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.AssemblyInfoInputs.cache
+C:\Users\kabir\Desktop\identity\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.AssemblyInfo.cs
+C:\Users\kabir\Desktop\identity\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.csproj.CoreCompileInputs.cache
+C:\Users\kabir\Desktop\identity\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.dll
+C:\Users\kabir\Desktop\identity\PersianTranslation\obj\Debug\netstandard2.0\PersianTranslation.pdb

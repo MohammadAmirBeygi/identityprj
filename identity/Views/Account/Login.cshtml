@@ -1,0 +1,36 @@
+﻿@model LoginViewModel
+@{
+	ViewData["Title"] = "Login";
+}
+
+<h1>Login</h1>
+@if (ViewData["ModelEror"] != null)
+{
+	<div class="alert alert-danger text-danger"> @ViewData["ModelEror"]</div>
+}
+<form asp-action="Login" asp-controller="Account"
+	  method="post" asp-route-returnUrl="@ViewData["returnUrl"]">
+	<div asp-validation-summary="ModelOnly"></div>
+
+	<div>
+		<label asp-for="UserName"></label>
+		<input asp-for="UserName" class="form-control" />
+		<span asp-validation-for="UserName"></span>
+	</div>
+	<div>
+		<label asp-for="Password"></label>
+		<input asp-for="Password" class="form-control" />
+		<span asp-validation-for="Password"></span>
+	</div>
+	<div>
+		<label asp-for="RemmberMe"></label>
+		<input asp-for="RemmberMe" />
+	</div>
+	<div>
+		<input type="submit" class="btn btn-success col-12" value="Login" />
+	</div>
+</form>
+
+@section Scripts{
+	<partial name="_ValidationScriptsPartial" />
+}
