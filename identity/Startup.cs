@@ -21,6 +21,7 @@ namespace identity
     {
         public Startup(IConfiguration configuration)
         {
+            //Hello git
             Configuration = configuration;
         }
 
